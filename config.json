@@ -1,0 +1,7 @@
+{
+  "delay_max": 1.0,
+  "wait_before_f8": 16,
+  "wait_after_f8": 3,
+  "wait_after_enter": 13,
+  "screen_threshold": 15
+}
